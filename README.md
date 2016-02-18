@@ -39,7 +39,7 @@ Creative &amp; innovative websites
 - [Barni-eshop](http://www.market-me.fr/barni-eshop/)
 - [Crystallized Skins](http://crystallizedskins.com/)
 - [Enso by Readymac](http://enso.readymag.com/architects-own-houses/)
-- [Subaru](http://www.subaru.com/csr/environment.html
+- [Subaru](http://www.subaru.com/csr/environment.html)
 - [Le Mugs](http://le-mugs.com/)
 - [Panache](http://panache.fr/)
 - [Paper by FiftyThree](https://www.fiftythree.com/)
